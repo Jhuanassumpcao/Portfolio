@@ -14,5 +14,9 @@ body {
 	color: white;
 }
 .main {
+	margin: 1rem;
 	padding: 1rem;
+	border: 1px solid white ;
+	border-radius: 1rem;
+
 }
