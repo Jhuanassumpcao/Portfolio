@@ -1,31 +1,31 @@
 {
   "name": "Jhuan Assumpção",
-  "photo": "https://raw.githubusercontent.com/Jhuanassumpcao/Portfolio/master/data/foto.jpeg",
+  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
   "job": "Desenvolvedor Junior",
   "location": "Santa Maria - RS",
-  "phone": "(54)  9 9135-3148",
+  "phone": "(54) 9 9135-3148",
   "email": "jlassumpcao@inf.ufsm.br",
   "skills": {
     "hardSkills": [
       {
         "name": "Java",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+        "logo": "https://raw.githubusercontent.com/Jhuanassumpcao/Portfolio/master/data/imgs/java.png"
       },
       {
         "name": "MySql",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mysql.png"
+        "logo": "https://raw.githubusercontent.com/Jhuanassumpcao/Portfolio/master/data/imgs/mysql.png"
       },
       {
         "name": "JavaScript",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
+        "logo": "https://raw.githubusercontent.com/Jhuanassumpcao/Portfolio/master/data/imgs/js.png"
       },
       {
         "name": "Python",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/python.png"
+        "logo": "https://raw.githubusercontent.com/Jhuanassumpcao/Portfolio/master/data/imgs/python.png"
       },
       {
         "name": "Git",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/git.png"
+        "logo": "https://raw.githubusercontent.com/Jhuanassumpcao/Portfolio/master/data/imgs/git.png"
       }
     ],
     "softSkills": [
