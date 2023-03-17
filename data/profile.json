@@ -1,6 +1,6 @@
 {
   "name": "Jhuan Assumpção",
-  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
+  "photo": "https://raw.githubusercontent.com/Jhuanassumpcao/Portfolio/master/data/foto.jpeg",
   "job": "Desenvolvedor Junior",
   "location": "Santa Maria - RS",
   "phone": "(54)  9 9135-3148",
@@ -38,8 +38,8 @@
     ]
   },
   "languages": [
-    "Português BR",
-    "Inglês (Iniciante)"
+    "Português: Nativo",
+    "Inglês: Básico"
   ],
   "portfolio": [
     {
