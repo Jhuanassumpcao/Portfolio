@@ -45,17 +45,17 @@
   "projetos": [
     {
       "name": "Criando um jogo 2d em Java",
-      "url": "encurtador.com.br/eIJS2",
+      "url": "https://encurtador.com.br/eIJS2",
       "github": true
     },
     {
       "name": "Criando um jogo de terminal em C",
-      "url": "encurtador.com.br/rCPW5",
+      "url": "https://encurtador.com.br/rCPW5",
       "github": true
     },
 	{
 		"name": "Criando uma Pokedex em JavaScript",
-		"url": "encurtador.com.br/dnuDZ",
+		"url": "https://encurtador.com.br/dnuDZ",
 		"github": true
 	  }
   ],
