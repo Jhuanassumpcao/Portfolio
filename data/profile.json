@@ -1,0 +1,68 @@
+{
+  "name": "Jhuan Assumpção",
+  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
+  "job": "Desenvolvedor Junior",
+  "location": "Santa Maria - RS",
+  "phone": "(54)  9 9135-3148",
+  "email": "jlassumpcao@inf.ufsm.br",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "Java",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+      },
+      {
+        "name": "MySql",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mysql.png"
+      },
+      {
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
+      },
+      {
+        "name": "Python",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/python.png"
+      },
+      {
+        "name": "Git",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/git.png"
+      }
+    ],
+    "softSkills": [
+      "Comprometimento com resultados",
+      "Facilidade com tarefas práticas",
+      "Trabalho em equipe",
+      "Adaptabilidade",
+      "Planejamento",
+	  "Organização"
+    ]
+  },
+  "languages": [
+    "Português BR",
+    "Inglês (Iniciante)"
+  ],
+  "portfolio": [
+    {
+      "name": "Criando um jogo 2d em Java",
+      "url": "encurtador.com.br/eIJS2",
+      "github": true
+    },
+    {
+      "name": "Criando um jogo de terminal em C",
+      "url": "encurtador.com.br/rCPW5",
+      "github": true
+    },
+	{
+		"name": "Criando uma Pokedex em JavaScript",
+		"url": "encurtador.com.br/dnuDZ",
+		"github": true
+	  }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Auxiliar administrativo / ITALAC",
+      "period": "Ago 2017 - Ago 2019",
+      "description": "Pegava dados laboratoriais de uma planilha física e passava para uma planilha Excel. E auxiliava em atividades diversas quando necessário."
+    }
+  ]
+}
