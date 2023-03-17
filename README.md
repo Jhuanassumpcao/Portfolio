@@ -1,3 +1,3 @@
 # Portfolio
 
-acesse o portfolio aqui: https://github.com/Jhuanassumpcao/Portfolio
+acesse o portfolio aqui: https://jhuanassumpcao.github.io/Portfolio/
