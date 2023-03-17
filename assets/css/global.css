@@ -13,6 +13,17 @@ body {
 	background-color: black;
 	color: white;
 }
+
+
+a {
+	color: white;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
 .main {
 	margin: 1rem;
 	padding: 1rem;
