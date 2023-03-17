@@ -42,6 +42,18 @@ function updateLanguages(profileData){
 	
 }
 
+function updateProjetos(profileData){
+	const projetos = document.getElementById('profile.projetos')
+	projetos.innerHTML = profileData.projetos.map(projetos => {
+		return `
+			<li>
+				<h3 ${projetos.github ? 'class="github"' : ''}>${projetos.name}</h3>
+				<a href="${projetos.url}" target="_blank">${projetos.url}</a>
+			</li>
+		`
+	}).join('')
+}
+
 (async () => {
 
 	const profileData = await fetchProfileData()
@@ -49,5 +61,6 @@ function updateLanguages(profileData){
 	updateSoftSkill(profileData)
 	updateHardSkill(profileData)
 	updateLanguages(profileData)
+	updateProjetos(profileData)
 
 })()
