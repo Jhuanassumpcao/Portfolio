@@ -61,14 +61,19 @@
   ],
   "professionalExperience": [
     {
-      "name": "Auxiliar administrativo / ITALAC",
-      "period": "Ago 2017 - Ago 2019",
-      "description": "Responsável por organizar dados de planilhas físicas em planilhas no software Excel. E auxiliava em atividades diversas quando necessário."
+      "name": "Desenvolvedor Full-Stack / Stars Aceleradora",
+      "period": "Apr 2023 - Current",
+      "description": "Desempenho a manutenção contínua dos sistemas existentes, respondendo proativamente às demandas dos clientes e implementando novas funcionalidades para aprimorar a experiência do usuário. Emprego tecnologias de ponta, como Adonis, Vue e JavaScript, na criação de soluções eficientes e funcionais que atendem aos mais elevados padrões de qualidade e desempenho."
     },
     {
-      "name": "Desenvolvedor FullStack / Stars Aceleradora",
-      "period": "Apr 2023 - Current",
-      "description": "Realizo a manutenção dos sistemas existentes, além de atender às demandas dos clientes, implementando novos recursos e funcionalidades. Utilizo as tecnologias Adonis, Vue e JavaScript para desenvolver soluções eficientes e funcionais."
+      "name": "Desenvolvedor Front-End / Green Next",
+      "period": "Dec 2023 - Jan 2024",
+      "description": "Contribuí para a expansão do projeto, criando três novas telas utilizando Vue2 e TypeScript, garantindo uma experiência de usuário mais fluida e interativa."
+    },
+    {
+      "name": "Auxiliar administrativo / ITALAC",
+      "period": "Ago 2017 - Ago 2019",
+      "description": "Desenvolvi competências na coleta e organização de dados laboratoriais ao transpor informações de uma planilha física para o ambiente digital no Microsoft Excel. Além disso, ofereci suporte em diversas atividades conforme necessário, demonstrando habilidades multifuncionais e dedicação às responsabilidades atribuídas."
     }
   ]
 }
