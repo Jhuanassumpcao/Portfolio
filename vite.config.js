@@ -1,3 +1,4 @@
+import path from 'path'
 import { defineConfig } from 'vite'
 import vue from '@vitejs/plugin-vue'
 
@@ -8,7 +9,11 @@ export default defineConfig({
 		port: 8080,
 	},
 
-  base: '/Portfolio/',
+  resolve: {
+		alias: {
+			'@': path.resolve(__dirname, './src'),
+		},
+	},
   
   plugins: [vue()]
 })
