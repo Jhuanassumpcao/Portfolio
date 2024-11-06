@@ -8,7 +8,7 @@ export default defineConfig({
 		port: 8080,
 	},
 
-  base: '/portfolio-website-vue3/',
+  base: '/Portfolio/',
   
   plugins: [vue()]
 })
