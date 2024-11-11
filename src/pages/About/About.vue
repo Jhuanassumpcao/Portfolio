@@ -113,11 +113,11 @@ const heightStyle = computed(() => {
 const data = ref({
     title: 'Escrevo código, Projeto coisas',
     subTitle: 'Quem é Jhuan', 
-    info: 'Tenho uma paixão profunda por criar experiências digitais excepcionais. Com um desejo incessante de aprendizado, mantenho-me constantemente atualizado sobre as últimas tendências e tecnologias em desenvolvimento Front-end e back-end.',
+    info: 'Tenho uma paixão profunda por criar experiências digitais excepcionais. Com um desejo incessante de aprendizado, mantenho-me constantemente atualizado sobre as últimas tendências e tecnologias em desenvolvimento Front-End e Back-End.',
     info2: 'Como Full-Stack, meu objetivo é unir a  estética e usabilidade com desempenho e robustez. Em cada projeto, valorizo boas práticas de design e arquitetura de software, garantindo que tanto a interface quanto a infraestrutura ofereçam uma experiência excelente, escalável e pronta para evoluir.',
     info3: `Minha formação em <strong>Ciência da Computação</strong> me forneceu uma base sólida em programação e resolução de problemas complexos. Compreender as necessidades dos usuários e as metas do negócio é fundamental para mim. Ao longo da minha carreira, adquiri experiência em projetos diversos, desde sites institucionais até aplicações web complexas. Valorizo ​​a escrita de código limpo (Clean Code), modular e bem documentado, o que facilita a manutenção e escalabilidade dos projetos.`,
     skill: 'Web developer skills',
-    tools: 'Veja as principais competências técnicas que possuo e atuo para o desenvolvimento Full-stack.',
+    tools: 'Veja as principais competências técnicas que possuo e atuo para o desenvolvimento Full-Stack.',
     design: 'Design Tools',
     ui:'Ferramentas que uso em meus designs de interface do usuário.'
 
