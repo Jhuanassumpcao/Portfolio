@@ -30,25 +30,25 @@
 </template>
 <script setup>
 const steps = [
+	{
+      title: 'Codex',
+      time: 'Março 2025 - Atual',
+      work: 'Desenvolvedor Front-End',
+      subTitle: 'Implementação e aprimoramento de interfaces com foco em performance, acessibilidade e usabilidade.',
+      first: 'Desenvolver telas utilizando Vue.js, Next.js, Vuetify e Tailwind CSS, aplicando boas práticas de UX/UI.',
+      second: 'Integrar recursos geoespaciais com ArcGIS, renderização no servidor (SSR) e pipelines de CI/CD no GitLab.'
+   },
    {
-		title: 'Green Next',
-		time: 'Dezembro 2023 - Fevereiro 2024',
+	  title: 'Green Next',
+	  time: 'Dezembro 2023 - Fevereiro 2024',
       work: 'Desenvolvedor Front-End Freelance',
       subTitle: 'Projetar, e criar layout de um painel administrativo para ligar bombas de irrigação.',
       first: 'Desenvolver e integrar três telas de controle de bombas.',
       second: 'Documentar o código e realizar o deploy do sistema.'
 	},
    {
-		title: 'Projeto SCAE',
-		time: 'Fevereiro 2024 - Abril 2024',
-      work: 'Desenvolvedor Front-End',
-      subTitle: 'Desenvolvimento de ferramenta digital para aplicação da classificação acústica de habitações brasileiras',
-      first: 'Implementação de telas para a classificação acústica utilizando React.',
-      second: 'Realização de reports constantes sobre o progresso e feedbacks durante o desenvolvimento.'
-	},
-   {
-		title: 'Stars Aceleradora',
-		time: 'Março 2023 - Atual',
+	  title: 'Stars Aceleradora',
+	  time: 'Março 2023 - Atual',
       work: 'Desenvolvedor Full Stack',
       subTitle: "Responsável, junto à equipe, por criar a base dos projetos e manter sistemas.",
       first: "Desenvolvimento front-end com React, Vue, Storybook, Clean Code e integração de e-mails.",
